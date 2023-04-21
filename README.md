@@ -1,2 +1,2 @@
 # My-Reader-Space
-It is aL Library Management System made using JSP, HTML, CSS, Servlet and MySQL
+It is a Library Management System App made using JSP, HTML, CSS, Servlet and MySQL
